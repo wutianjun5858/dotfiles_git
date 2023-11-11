@@ -10,4 +10,4 @@ sudo chmod +x /usr/local/bin/dotfiles_git
 
 echo "dotfiles_git install ok!"
 
-dotfiles_git config --local status.showUntrackedFiles no
+#dotfiles_git config --local status.showUntrackedFiles no
